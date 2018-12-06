@@ -1,12 +1,12 @@
-key "" {
+key_prefix "" {
    policy = "write"
 }
 
-node "" {
+node_prefix "" {
    policy = "read"
 }
 
-service "" {
+service_prefix "" {
    policy = "read"
 }
 
