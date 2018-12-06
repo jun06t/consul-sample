@@ -1,0 +1,2 @@
+# consul-sample
+Consul samples
