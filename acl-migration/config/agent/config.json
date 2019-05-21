@@ -1,7 +1,7 @@
 {
   "primary_datacenter": "dc1",
-  "acl" : {
-    "enabled" : true,
-    "down_policy" : "extend-cache"
+  "acl": {
+    "enabled": true,
+    "down_policy": "extend-cache"
   }
 }

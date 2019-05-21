@@ -1,11 +1,11 @@
 {
   "primary_datacenter": "dc1",
-  "acl" : {
+  "acl": {
     "enabled": true,
     "default_policy": "allow",
     "down_policy": "extend-cache",
-    "tokens" : {
-      "master" : "b1gs33cr3t"
+    "tokens": {
+      "master": "b1gs33cr3t"
     }
   }
 }
